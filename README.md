@@ -26,5 +26,11 @@ dotenv langchain_groq streamlit langchain_core
 ### WEEK 2
 
 Packages for `async_mini_project.py`:
+```
+streamlit langchain_groq asyncio asyncio
+```
 
 Packages for `class_validity.py`:
+```
+pydantic typing
+```
