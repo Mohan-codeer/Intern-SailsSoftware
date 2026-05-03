@@ -10,27 +10,27 @@ I've recently joined as an intern at sails software with the goal of sharpening 
 
 Packages for `HandsOnBert.py`:
 ```
-pip datasets transformers evaluate numpy
+pip install datasets transformers evaluate numpy
 ```
 
 Packages for `basic_api.py`:
 ```
-dotenv groq streamlit
+pip install dotenv groq streamlit
 ```
 
 Packages for `langchain.py`:
 ```
-dotenv langchain_groq streamlit langchain_core
+pip install dotenv langchain_groq streamlit langchain_core
 ```
 
 ### WEEK 2
 
 Packages for `async_mini_project.py`:
 ```
-streamlit langchain_groq asyncio asyncio
+pip install streamlit langchain_groq asyncio asyncio
 ```
 
 Packages for `class_validity.py`:
 ```
-pydantic typing
+pip install pydantic typing
 ```
