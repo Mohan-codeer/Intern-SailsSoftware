@@ -33,5 +33,5 @@
 
 
 Also see:
-[Week 1](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week1/Week1.md)
-[Week 3](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week3/Week3.md)
+- [Week 1](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week1/Week1.md)
+- [Week 3](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week3/Week3.md)
