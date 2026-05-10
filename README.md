@@ -6,7 +6,7 @@ I've recently joined as an intern at sails software with the goal of sharpening 
 
 ## Packages Required
 
-### WEEK 1
+### [WEEK 1] (https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week1/Week1.md)
 
 Packages for `HandsOnBert.py`:
 ```
@@ -23,7 +23,7 @@ Packages for `langchain.py`:
 pip install dotenv langchain_groq streamlit langchain_core
 ```
 
-### WEEK 2
+### [WEEK 2] (https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week2/Week2.md)
 
 Packages for `async_mini_project.py`:
 ```
@@ -35,6 +35,6 @@ Packages for `class_validity.py`:
 pip install pydantic typing
 ```
 
-### WEEK 3
+### [WEEK 3] (https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week3/Week3.md)
 
 No projects for week 3...
