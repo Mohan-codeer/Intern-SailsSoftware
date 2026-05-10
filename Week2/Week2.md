@@ -30,3 +30,8 @@
 - How model usage is counted
 - What evaluates to it
 - They are `tokens` (in use of `context windows`) and `quota`
+
+
+Also see:
+[Week 1](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week1/Week1.md)
+[Week 3](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week3/Week3.md)
