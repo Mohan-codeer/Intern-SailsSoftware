@@ -1,5 +1,5 @@
 # My Progress at Sails Software
-I've recently joined as an intern at sails software with the goal of sharpening my AI/ML skills and learn about new concepts, I am quite curious and I have documented my first 2 weeks at sails software in  `Week1/Week1.md` and `Week2/Week2.md` as it is my first 2 weeks here It's very special and precious, I will be sure to update this as fast as I can.
+I've recently joined as an intern at sails software with the goal of sharpening my AI/ML skills and learn about new concepts, I am quite curious and I have documented my first 3 weeks at sails software in  `Week1/Week1.md`, `Week2/Week2.md` and `Week3/Week3.md` as it is my first 3 weeks here It's very special, I will be sure to update this as fast as I can.
 
 # Running My Projects
 > You would need a Groq API key to use it, you can get it at [the groq console](https://console.groq.com/keys) place it in the `.env` file I've provided
@@ -34,3 +34,7 @@ Packages for `class_validity.py`:
 ```
 pip install pydantic typing
 ```
+
+### WEEK 3
+
+No projects for week 3...
