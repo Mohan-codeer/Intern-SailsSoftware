@@ -23,3 +23,9 @@
 - We give the AI many good examples of how to answer.
 - The AI copies these examples to learn the right format.
 - This is usually the first step in teaching an AI how to behave.
+
+
+
+Also see:
+[Week 1](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week1/Week1.md)
+[Week 2](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week2/Week2.md)
