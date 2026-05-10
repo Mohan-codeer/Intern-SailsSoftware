@@ -27,5 +27,5 @@
 
 
 Also see:
-[Week 1](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week1/Week1.md)
-[Week 2](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week2/Week2.md)
+- [Week 1](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week1/Week1.md)
+- [Week 2](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week2/Week2.md)
