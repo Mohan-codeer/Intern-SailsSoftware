@@ -51,3 +51,8 @@
 - Syntax similarity
 - Easy switch ups
 - Vector DBs
+
+Also see:
+[Week 2](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week2/Week2.md)
+[Week 3](https://github.com/Mohan-codeer/Intern-SailsSoftware/blob/main/Week3/Week3.md)
+
