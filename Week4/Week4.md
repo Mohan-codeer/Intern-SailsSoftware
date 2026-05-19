@@ -5,4 +5,4 @@
 
 
 ## Project Text/PDF reader bot
-- In mini_projects/text_bot.py
+- In `mini_projects/text_bot.py`
