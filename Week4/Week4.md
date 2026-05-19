@@ -1,7 +1,7 @@
 # Week 4
 
 ## Project Multi AI pass
-- In `mini_projects/multi-agent-ai`
+- In `mini_projects/multi-agent-ai/`
 
 
 ## Project Text/PDF reader bot
